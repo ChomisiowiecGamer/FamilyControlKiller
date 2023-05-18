@@ -1,1 +1,3 @@
 # FamilyControlKiller
+
+The FamilyControlKiller tool is designed to disable microsoft parental controls. The tool uses a simple script written in Python. The script disables WpcMonSvc service, which is responsible for, among other things, time limits set on the parental control. You can also disable the WpcMonSvc service manually by going into the Task Manager and then into services and you can simply turn it off. Of course, the tool sped up the process. The tool can, for example, be transferred to a flash drive and use the "autorun.inf" file method. , or simply run the file batch.bat \ family_control_killer.py
