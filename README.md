@@ -22,16 +22,16 @@ The FamilyControlKiller tool is designed to disable microsoft parental controls.
 # How to use PC\Laptop (from a flash drive).
 
 
-Clone the entire repository to your computer.
+1. Clone the entire repository to your computer.
 
 
-Extract the Family Control Killer folder to a flash drive
+2. Extract the Family Control Killer folder to a flash drive
 
 
-Remove the flash drive and then insert it
+3. Remove the flash drive and then insert it
 
 
-If everything went according to plan then the batch.bat program will run itself after inserting the flash drive and the WpcMonSvc service should be stopped. If you get a "Access Denied" error. If the program does not start on its own, or if after running batch.bat it pops up with "Access Denied" error. This may mean that the service has already been stopped, or that your system has autorun disabled, or that you do not have administrator privileges.
+4. If everything went according to plan then the batch.bat program will run itself after inserting the flash drive and the WpcMonSvc service should be stopped. If you get a "Access Denied" error. If the program does not start on its own, or if after running batch.bat it pops up with "Access Denied" error. This may mean that the service has already been stopped, or that your system has autorun disabled, or that you do not have administrator privileges.
 
 
 # Remember
