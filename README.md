@@ -18,6 +18,7 @@ The FamilyControlKiller tool is designed to disable microsoft parental controls.
 
 7. If everything went according to plan WpcMonSvc service should be stopped. If one saw an error saying , "Access denied". This may mean that the service has already been stopped, or that you haven't run the family_control_killer.py program with admin privileges (of course, if you have chosen the batch.bat program, which I obviously recommend, then you are not affected).
 
+**Or run (.exe aplication)**
 
 # How to use PC\Laptop (from a flash drive).
 
